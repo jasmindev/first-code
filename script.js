@@ -1,4 +1,4 @@
-var can = 5;
+var can = 3;
 var guess,counter = 0;
 var number = Math.floor((Math.random()*10)+1);
 
